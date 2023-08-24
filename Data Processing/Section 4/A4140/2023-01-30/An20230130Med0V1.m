@@ -2,8 +2,7 @@ close all;
 clear all;
 
 %en este script se busca estudiar las mediciones iniciadas el 30/01/2023 sobre la muestra de A4140.
-%las mediciones resultaron muy satisfactorias y tienen sentido. Puede ser que a futuro me dedique a avanzar con mediciones 
-%en regiones menores como para que el salto no sea muy significativo. 
+%las mediciones resultaron muy satisfactorias y tienen sentido.
 
 
 
